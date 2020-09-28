@@ -1,0 +1,1 @@
+The app was run on Pixel 2 API 24 and Pixel XL API 29
